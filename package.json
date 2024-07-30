@@ -1,0 +1,47 @@
+{
+  "name": "@eik/eslint-config",
+  "version": "1.0.0",
+  "description": "Shared ESLint config for Eik modules",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./lib/default.js"
+    }
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eik-lib/eslint-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/eik-lib/eslint-config/issues"
+  },
+  "homepage": "https://github.com/eik-lib/eslint-config#readme",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 9"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.2.1",
+    "globals": "15.8.0"
+  },
+  "devDependencies": {
+    "eslint": "9.8.0"
+  }
+}
