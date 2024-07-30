@@ -10,11 +10,17 @@ npm install --save-dev eslint @eik/eslint-config
 
 ## Usage
 
+Create and add this to `eslint.config.js`:
+
+```js
+import config from "@eik/eslint-config";
+
+export default config;
+```
+
 The default config should cover most needs, but you can extend or override if you need to.
 
 ```js
-// eslint.config.js
-
 import config from "@eik/eslint-config";
 
 export default [
