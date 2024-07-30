@@ -42,8 +42,10 @@
     "globals": "15.8.0"
   },
   "devDependencies": {
+    "@eik/prettier-config": "1.0.1",
     "@eik/semantic-release-config": "1.0.0",
     "eslint": "9.8.0",
+    "prettier": "3.3.3",
     "semantic-release": "24.0.0"
   }
 }

@@ -1,3 +1,3 @@
-import eikEslintConfig from "./lib/default.js";
+import config from "./lib/default.js";
 
-export default [...eikEslintConfig];
+export default config;
