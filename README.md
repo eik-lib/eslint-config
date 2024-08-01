@@ -26,6 +26,9 @@ import config from "@eik/eslint-config";
 export default [
 	...config,
 	/* Your customisations */
+	{
+		ignores: [".docusaurus/*"],
+	},
 ];
 ```
 
