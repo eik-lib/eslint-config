@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/eik-lib/eslint-config/compare/v1.0.1...v1.0.2) (2024-08-06)
+
+
+### Bug Fixes
+
+* ignore dist ([b8a3680](https://github.com/eik-lib/eslint-config/commit/b8a3680614efa988b670e4915c2988551172cb61))
+
 ## [1.0.1](https://github.com/eik-lib/eslint-config/compare/v1.0.0...v1.0.1) (2024-08-03)
 
 
