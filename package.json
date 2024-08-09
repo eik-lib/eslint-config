@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/eik-lib/eslint-config#readme",
   "scripts": {
+    "clean": "rimraf node_modules types",
     "lint": "eslint .",
-    "lint:fix": "npm run lint -- --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint:fix": "npm run lint -- --fix"
   },
   "keywords": [
     "eslint",
@@ -46,6 +46,7 @@
     "@eik/semantic-release-config": "1.0.0",
     "eslint": "9.8.0",
     "prettier": "3.3.3",
+    "rimraf": "6.0.1",
     "semantic-release": "24.0.0"
   }
 }
