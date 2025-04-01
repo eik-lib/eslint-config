@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@eik/prettier-config": "1.0.1",
-    "@eik/semantic-release-config": "1.0.0",
+    "@eik/semantic-release-config": "1.0.2",
     "eslint": "9.21.0",
     "prettier": "3.4.2",
     "rimraf": "6.0.1",
