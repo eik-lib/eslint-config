@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/eik-lib/eslint-config/compare/v1.0.14...v1.0.15) (2025-05-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-prettier to v5.4.0 ([#35](https://github.com/eik-lib/eslint-config/issues/35)) ([bd932ac](https://github.com/eik-lib/eslint-config/commit/bd932ac968413317f7dd40048b75d923f415eb44))
+
 ## [1.0.14](https://github.com/eik-lib/eslint-config/compare/v1.0.13...v1.0.14) (2025-05-04)
 
 
