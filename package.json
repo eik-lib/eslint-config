@@ -1,6 +1,6 @@
 {
   "name": "@eik/eslint-config",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "Shared ESLint config for Eik modules",
   "type": "module",
   "exports": {
