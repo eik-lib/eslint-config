@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/eik-lib/eslint-config/compare/v1.0.25...v2.0.0) (2026-03-27)
+
+
+### Bug Fixes
+
+* adopt e18e eslint plugin ([#66](https://github.com/eik-lib/eslint-config/issues/66)) ([5ef021a](https://github.com/eik-lib/eslint-config/commit/5ef021a654129bf9be997044b8a89f3910528167))
+* **deps:** update dependency globals to v17 ([#60](https://github.com/eik-lib/eslint-config/issues/60)) [skip ci] ([e566005](https://github.com/eik-lib/eslint-config/commit/e5660058875560b48d72d6e7f72dad415e564db7))
+
+
+### BREAKING CHANGES
+
+* introduces new rules from the @e18e/eslint-plugin
+
 ## [1.0.25](https://github.com/eik-lib/eslint-config/compare/v1.0.24...v1.0.25) (2026-01-14)
 
 
