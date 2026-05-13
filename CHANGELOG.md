@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/eik-lib/eslint-config/compare/v2.0.3...v2.0.4) (2026-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @e18e/eslint-plugin to v0.5.0 ([#74](https://github.com/eik-lib/eslint-config/issues/74)) ([ff1ed81](https://github.com/eik-lib/eslint-config/commit/ff1ed8168a13b1c5fa737810f1e4ea09e72d7fbe))
+
 ## [2.0.3](https://github.com/eik-lib/eslint-config/compare/v2.0.2...v2.0.3) (2026-05-01)
 
 
