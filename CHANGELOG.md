@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/eik-lib/eslint-config/compare/v2.0.5...v2.0.6) (2026-05-27)
+
+
+### Bug Fixes
+
+* Exclude banned dependencies (express) ([91a3893](https://github.com/eik-lib/eslint-config/commit/91a3893deab15fd0084c22c65c474f9077df1445))
+
 ## [2.0.5](https://github.com/eik-lib/eslint-config/compare/v2.0.4...v2.0.5) (2026-05-27)
 
 
