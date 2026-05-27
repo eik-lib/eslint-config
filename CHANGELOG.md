@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/eik-lib/eslint-config/compare/v2.0.4...v2.0.5) (2026-05-27)
+
+
+### Bug Fixes
+
+* Bump dependencies ([f1a2717](https://github.com/eik-lib/eslint-config/commit/f1a2717bfaa65d34f1f921a0dc2d71a88db53b36))
+
 ## [2.0.4](https://github.com/eik-lib/eslint-config/compare/v2.0.3...v2.0.4) (2026-05-13)
 
 
