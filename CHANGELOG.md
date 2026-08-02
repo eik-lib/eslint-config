@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/eik-lib/eslint-config/compare/v2.0.11...v2.0.12) (2026-08-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency globals to v17.9.0 ([#90](https://github.com/eik-lib/eslint-config/issues/90)) ([4e8f3bc](https://github.com/eik-lib/eslint-config/commit/4e8f3bcd8fdff6d63476d6b73e901aabee12df3d))
+
 ## [2.0.11](https://github.com/eik-lib/eslint-config/compare/v2.0.10...v2.0.11) (2026-07-27)
 
 
